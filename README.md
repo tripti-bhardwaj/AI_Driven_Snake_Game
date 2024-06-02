@@ -62,11 +62,6 @@ pip install -r requirements.txt
 
    Use the arrow keys to control the snake and try to eat the food to grow in size.
 
-##Output
-![image](https://github.com/tripti-bhardwaj/AI_Driven_Snake_Game/images/63348938/a4446650-278b-4e2b-a01b-596be7726c36)
-![image](https://github.com/tripti-bhardwaj/AI_Driven_Snake_Game/images/63348938/d9eb7209-603c-4a7f-9bdc-1ae554c25bf8)
-
-
 ## Code Structure
 
 ### agent.py
