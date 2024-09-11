@@ -108,4 +108,3 @@ This file contains the `SnakeGame` class which allows you to play the Snake game
 - Implement other reinforcement learning algorithms like Dueling DQN, Double DQN, etc.
 - Add more features to the game, such as obstacles and different levels.
 
-Feel free to contribute to this project by opening issues or submitting pull requests. For any questions or suggestions, please contact [your-email@example.com](mailto:your-email@example.com).
